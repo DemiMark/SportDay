@@ -1,0 +1,17 @@
+E:\Desktop\Jaszuk\Sport\Sport\bin\Debug\Sport.exe.config
+E:\Desktop\Jaszuk\Sport\Sport\obj\Debug\Sport.csprojResolveAssemblyReference.cache
+E:\Desktop\Jaszuk\Sport\Sport\obj\Debug\Sport.Football.resources
+E:\Desktop\Jaszuk\Sport\Sport\obj\Debug\Sport.menu.resources
+E:\Desktop\Jaszuk\Sport\Sport\obj\Debug\Sport.Properties.Resources.resources
+E:\Desktop\Jaszuk\Sport\Sport\obj\Debug\Sport.csproj.GenerateResource.Cache
+E:\Desktop\Jaszuk\Sport\Sport\bin\Debug\Sport.exe
+E:\Desktop\Jaszuk\Sport\Sport\bin\Debug\Sport.pdb
+E:\Desktop\Jaszuk\Sport\Sport\obj\Debug\Sport.exe
+E:\Desktop\Jaszuk\Sport\Sport\obj\Debug\Sport.pdb
+E:\Desktop\Jaszuk\Sport\Sport\obj\Debug\Sport.Tennis.resources
+E:\Desktop\Jaszuk\Sport\Sport\obj\Debug\Sport.basketball.resources
+E:\Desktop\Jaszuk\Sport\Sport\obj\Debug\Sport.Box.resources
+E:\Desktop\Jaszuk\Sport\Sport\obj\Debug\Sport.Golf.resources
+E:\Desktop\Jaszuk\Sport\Sport\obj\Debug\Sport.Add.resources
+E:\Desktop\Jaszuk\Sport\Sport\obj\Debug\Sport.Last.resources
+E:\Desktop\Jaszuk\Sport\Sport\obj\Debug\Sport.MySite.resources

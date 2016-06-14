@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Sport.basketball">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAkkAACAgAIAAAECAAAADAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>basketball.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sport.Add">
+    <Position X="7.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAABCAAABBIAICAAAACAAAAAAAAAEACAAAAACA=</HashCode>
+      <FileName>another.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sport.Last">
+    <Position X="5.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAIAAAACAAAACAAAQAAAAgAAABAAIAAA=</HashCode>
+      <FileName>another_site.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sport.Box">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAkEAACAgAIAAAECAAAADAAgIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Box.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sport.Football">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAkEAQCAAAIAAAECAAAADAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Football.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sport.Golf">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAkEAACAgAIAAAECAAAADAAgAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Golf.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sport.menu">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQPQByQAgCFEhBgDAoCSAkACAAgAAFIBAAAAAECARAA=</HashCode>
+      <FileName>menu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sport.MySite">
+    <Position X="3.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAkEAACAgAIAAAECAACADAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>newSite.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sport.Tennis">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAkEAACAgAIAAAECAAAADAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tennis.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
