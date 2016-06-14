@@ -36,7 +36,7 @@ namespace Sport
 
         private void refresh_Click(object sender, EventArgs e)
         {
-            webBrowser1.Refresh();
+            webBrowser1.Refresh(); 
         }
     }
 }
