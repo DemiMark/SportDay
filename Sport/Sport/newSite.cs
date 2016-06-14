@@ -37,7 +37,7 @@ namespace Sport
             webBrowser1.Navigate(save.site_URL);
             this.WindowState = FormWindowState.Maximized;
             this.MinimumSize = this.Size;
-            this.MaximumSize = this.Size;
+            this.MaximumSize = this.Size; 
         }
     }
 }
