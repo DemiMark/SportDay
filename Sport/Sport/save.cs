@@ -13,7 +13,6 @@ namespace Sport
     {
         public static string site_name = "";
         public static string site_URL = "";
-
         static string regKeyName = "HKEY_CURRENT_USER\\SOFTWARE\\project";
 
         public static void WriteParam()
