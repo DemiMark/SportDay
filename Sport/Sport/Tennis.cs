@@ -25,6 +25,7 @@ namespace Sport
             this.MinimumSize = this.Size;
             this.MaximumSize = this.Size;
         }
+        
         private void back_Click(object sender, EventArgs e)
         {
             webBrowser1.GoBack();
